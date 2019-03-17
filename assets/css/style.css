@@ -1,0 +1,38 @@
+
+
+body {
+    background-image: url("../images/pexels-photo-949586.jpg");
+}
+
+.content {
+
+    background-color: white;
+    width: 900px;
+    height: 800px;
+    margin: 0 auto;
+
+
+}
+h1 {
+    padding: 20px;
+    text-align: center; 
+    font-family: 'Dancing Script', cursive;
+    font-size: 75px;
+}
+
+.start {
+
+    width:400px;
+    height: 100px;
+    margin: 0 auto;
+    margin-left: 250px;
+    margin-top: 200px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 60px;
+
+}
+
+#quiz {
+
+    margin-left: 60px;
+}
